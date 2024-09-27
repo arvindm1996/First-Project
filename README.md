@@ -1,2 +1,2 @@
-# First-Project
-This is going to recommend the movie
+# Image2 Text
+we will be taking image from user
